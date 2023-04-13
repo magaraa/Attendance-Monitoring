@@ -30,5 +30,4 @@ An admin privilege account is available for managing student records and courses
 Support
 If you encounter any issues or have any questions about the app, please contact the developers at [email address].
 
-Contributors
-This app was developed by [names of developers]. We welcome contributions and suggestions for improving the app.
+
